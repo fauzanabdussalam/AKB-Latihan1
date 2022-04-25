@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="title">DigiTeam</string>
+    <string name="describe">DigiTeam</string>
+    <string name="fullname">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="profesi">UI Designer</string>
+    <string name="heading_working_hour">Jam Kerja Bulan Ini</string>
+    <string name="hour_status">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="hour_desc">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="btn_working_hour">Checkin</string>
+    <string name="report_heading">Laporan Kamu</string>
+    <string name="report_march_month">Maret</string>
+    <string name="report_april_month">April</string>
+    <string name="permission">Izin</string>
+    <string name="presence">Kehadiran</string>
+    <string name="report">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+    <string name="btn_report">Buat Laporan</string>
+    <string name="working_hour">130.53 JAM</string>
+</resources>
